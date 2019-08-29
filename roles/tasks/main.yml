@@ -1,0 +1,3 @@
+---
+- name: echo an even number
+  debug: msg=2
